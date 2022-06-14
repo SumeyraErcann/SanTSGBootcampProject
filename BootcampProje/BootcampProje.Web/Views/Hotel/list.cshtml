@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BootcampProje.Web.Models.Response.HotelProduct.GetArrivalAutocompleteResponse.Item>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1> Oteller</h1>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Şehir</th>
+            <th scope="col">Otel Adı</th>
+            
+             
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr scope="row">
+                
+                <td>@item.city.name</td>
+                <td>@item.hotel.name</td> 
+         
+
+            </tr>         
+        }       
+    </tbody>
+</table>
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#cities").autocomplete('@Url.Action("CityList", "Hotel")');
+        });
+</script>
+}

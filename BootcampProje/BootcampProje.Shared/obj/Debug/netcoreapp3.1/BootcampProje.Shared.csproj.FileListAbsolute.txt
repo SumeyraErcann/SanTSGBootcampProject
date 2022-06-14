@@ -1,0 +1,10 @@
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\bin\Debug\netcoreapp3.1\BootcampProje.Shared.deps.json
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\bin\Debug\netcoreapp3.1\BootcampProje.Shared.dll
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\bin\Debug\netcoreapp3.1\BootcampProje.Shared.pdb
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.csproj.AssemblyReference.cache
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.AssemblyInfoInputs.cache
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.AssemblyInfo.cs
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.dll
+C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Shared\obj\Debug\netcoreapp3.1\BootcampProje.Shared.pdb

@@ -1,0 +1,42 @@
+﻿@model BootcampProje.Web.Models.Response.HotelProduct.GetArrivalAutocompleteResponse
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1> ŞEHİRLER</h1>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Ülke kodu</th>
+            <th scope="col">Ülke</th>
+            <th scope="col">Şehir</th> 
+            <th scope="col">Oteller</th> 
+
+             
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.body.items.Where(a=>a.country.id.Equals("TR")))
+        {
+            <tr scope="row">
+                <td>@item.country.id</td>
+                <td>@item.country.name</td>
+                <td>@item.city.name</td> 
+                <td>
+                      <input class="btn-dark" type="button" onclick="window.location.href = 'https://localhost:44338/Hotel/List';" value="Listele">
+
+                </td>
+            </tr>         
+        }       
+    </tbody>
+</table>
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#cities").autocomplete('@Url.Action("CityList", "Hotel")');
+        });
+</script>
+}
