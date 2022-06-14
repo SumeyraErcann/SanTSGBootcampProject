@@ -8,3 +8,13 @@ C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Domain\obj\Debu
 C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.csproj.CoreCompileInputs.cache
 C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.dll
 C:\Users\bersu\Desktop\DiyetisyenSec\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.pdb
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\bin\Debug\netcoreapp3.1\BootcampProje.Domain.deps.json
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\bin\Debug\netcoreapp3.1\BootcampProje.Domain.dll
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\bin\Debug\netcoreapp3.1\BootcampProje.Domain.pdb
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.csproj.AssemblyReference.cache
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.AssemblyInfoInputs.cache
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.AssemblyInfo.cs
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.dll
+C:\Users\bersu\source\repos\SanTSGBootcampProject\BootcampProje\BootcampProje.Domain\obj\Debug\netcoreapp3.1\BootcampProje.Domain.pdb

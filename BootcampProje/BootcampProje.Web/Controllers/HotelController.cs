@@ -42,7 +42,7 @@ namespace BootcampProje.Web.Controllers
             Models.Request.HotelProduct.GetArrivalAutocompleteRequest request = new Models.Request.HotelProduct.GetArrivalAutocompleteRequest();
             request.Culture = "en-US";
             request.ProductType = 2;
-            request.Query = "Antalya";
+            request.Query = "anta";
 
             Models.Response.HotelProduct.GetArrivalAutocompleteResponse response = Api.Post<Models.Response.HotelProduct.GetArrivalAutocompleteResponse>(Global.GetArrivalautocompleteUrl, request, token);
 
